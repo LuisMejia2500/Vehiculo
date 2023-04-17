@@ -89,8 +89,8 @@ public class Inventario {
                     }else{
                         if(total_Vehiculos>20){
                             valor_Iva=0;
-                            total_Comercial=comer*40000000;
-                            total_Particular=parti*30000000;
+                            total_Comercial=comer*4000000000000;
+                            total_Particular=parti*300000000000000000;
                             total_Compra=(total_Comercial+total_Particular)+valor_Iva;
                             System.out.println("CONCESIONARIO UNCAR");
                             System.out.println("UNCAR - UNIVA");
